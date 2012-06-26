@@ -1,6 +1,21 @@
+# Java Spesific 
+
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Folders
+
+.idea/
+target/
+logs/
+out/
+private/
+
+# IDE-files
+
+*.iml
+*.imr
